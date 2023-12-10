@@ -1,5 +1,5 @@
 # VIVAQUESTION 2
-
+```
 2. Write a program that includes a method to determine if a given string is a palindrome. A 
 palindrome is a word, phrase, number, or other sequence of characters that reads the same 
 backward or forward (ignoring spaces, punctuation, and capitalization). 
@@ -25,3 +25,4 @@ Instruction:
 2. Check if the input is a palindrome. 
 3. Provide the user with an appropriate message indicating whether their input is a 
 palindrome or not. 
+```
